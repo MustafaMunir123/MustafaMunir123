@@ -1,5 +1,7 @@
 <h1>👋 Hi there, I’m Mustafa Munir</h1>
 
+![Tux, the Linux mascot](/assets/images/tux.png)
+
 - A Computer Science Undergrad of NED University.
 - 👀 I’m interested in problem Solving & Data Sciences
 - 🌱 I’m currently learning Power BI for Data Analysis
