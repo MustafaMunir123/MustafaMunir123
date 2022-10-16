@@ -1,6 +1,8 @@
 <h1>👋 Hi there, I’m Mustafa Munir</h1>
 
-![Tux, the Linux mascot](/assets/images/tux.png)
+<h3>How to reach me</h2>
+<a href="mailto:mustafamunir10@gmail.com"><img src="icons/gmail.png" width="50" height="50"></a>
+
 
 - A Computer Science Undergrad of NED University.
 - 👀 I’m interested in problem Solving & Data Sciences
