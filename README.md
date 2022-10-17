@@ -1,12 +1,12 @@
 <h1>👋 Hi there, I’m Mustafa Munir</h1>
 
-<p style="background-image: url('[img_girl.jpg](https://giphy.com/embed/KVZWZQoS0yqfIiTAKq)');">
+
 
 
 - A Computer Science Undergrad of NED University.
 - 👀 I’m interested in problem Solving & Data Sciences
 - 🌱 I’m currently learning Power BI for Data Analysis
-</p>
+
 
 <h3>How to reach me</h2>
 <a href="mailto:mustafamunir10@gmail.com"><img src="icons/gmail.png" width="50" height="50"></a>
