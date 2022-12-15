@@ -5,8 +5,8 @@
 
 
 - A Computer Science Undergrad of NED University.
-- 👀 I’m interested in problem Solving & Data Sciences
-- 🌱 I’m currently learning Power BI for Data Analysis
+- 👀 I’m interested in problem Solving & Backend Development.
+- 🌱 I’m currently Exploring Django 
 
 
 <h2>How to reach me</h2>
