@@ -1,4 +1,4 @@
-<img src="" >
+<img src="icons/banner-1.png" >
 <h1>👋 Hi there, I’m Mustafa Munir</h1>
 
 
