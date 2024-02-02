@@ -6,7 +6,7 @@
 
 - A Computer Science Undergrad of NED University.
 - 👀 I’m interested in problem Solving & Backend Development.
-- 🌱 I’m currently Exploring Django 
+- 🌱 Work on frameworks Django, Flask
 
 
 <h2>How to reach me</h2>
