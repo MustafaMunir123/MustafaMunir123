@@ -28,6 +28,9 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github-readme-stats.vercel.app/api?username=MustafaMunir123&show_icons=true&hide_border=false&count_private=true&theme=github_dark&count_private=true" alt="Mustafa's GitHub Stats">
 <img align="center" alt="Mustafa's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaMunir123&layout=compact&langs_count=9&theme=github_dark&count_private=true&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=MustafaMunir123&theme=github-dark-blue&count_private=true&date_format=M%20j%5B%2C%20Y%5D" alt="Mustafa's streak")>
-     
+
+<code><img height="30" src="https://www.svgrepo.com/show/353657/django-icon.svg"></code>
+<code><img height="30" src="https://www.svgrepo.com/show/452091/python.svg"></code>
+
 <!--<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <!--<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
