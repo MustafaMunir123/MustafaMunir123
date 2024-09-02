@@ -3,10 +3,21 @@
 
 
 
+- A Computer Science Graduate of NED University.
+- Working as a Backend & Generative AI Engineer.
+- 👀 I’m interested in Problem Solving.
+- 🌱 Work on frameworks Django, Flask, LangChain.
 
-- A Computer Science Undergrad of NED University.
-- 👀 I’m interested in problem Solving & Backend Development.
-- 🌱 Work on frameworks Django, Flask
+<h2>Career</h2>
+<p>As a Backend Engineer at Techwards, I work on developing and maintaining Gen-AI driven web applications using Python. I enjoy working with new technologies and tools and creating simple, elegant solutions for challenging problems...</p>
+<details open>
+  <summary>see more </summary>
+    <p>Before joining Techwards, I worked as a Backend Engineer at ConceptZi, on a Contract of 5 months. There, I contributed to developing and testing the backend of the Genetics Engineering website, using Python, Django, S3, and PostgresSql. I started my career as a Backend Engineer at SastaTicket.</p>
+
+  <p>I have a Bachelor of Science in Computer Science from NED University, where I gained a solid foundation in programming, data structures, algorithms, and software engineering. I also participated in several coding competitions and hackathons, where I honed my problem-solving and teamwork skills.</p>
+
+  <p>I'm passionate about software development and always willing to learn more from people around me and online resources. My tech stack includes Python, DRF, Flask, FastAPI, Gen-AI, and Java and I am currently exploring GoLang and Javascript.</p>
+</details>
 
 
 <h2>How to reach me</h2>
