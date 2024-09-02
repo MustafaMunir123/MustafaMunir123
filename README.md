@@ -10,7 +10,7 @@
 
 <h2>Career</h2>
 <p>As a Backend Engineer at Techwards, I work on developing and maintaining Gen-AI driven web applications using Python. I enjoy working with new technologies and tools and creating simple, elegant solutions for challenging problems...</p>
-<details open>
+<details close>
   <summary>see more </summary>
     <p>Before joining Techwards, I worked as a Backend Engineer at ConceptZi, on a Contract of 5 months. There, I contributed to developing and testing the backend of the Genetics Engineering website, using Python, Django, S3, and PostgresSql. I started my career as a Backend Engineer at SastaTicket.</p>
 
