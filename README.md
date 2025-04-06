@@ -1,4 +1,4 @@
-<img src="icons/LinkedIn Cover.png" >
+<img src="icons/LinkedIn cover.jpg" >
 <h1>👋 Hi there, I’m Mustafa Munir</h1>
 
 
