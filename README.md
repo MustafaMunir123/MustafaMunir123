@@ -43,6 +43,8 @@ You can click the Preview link to take a look at your changes.
 <code><img height="30" src="https://www.svgrepo.com/show/353657/django-icon.svg"></code>
 <code><img height="30" src="https://www.svgrepo.com/show/452091/python.svg"></code>
 <code><img height="30" src="icons/shebang.png"></code>
+<code><img height="30" src="https://www.svgrepo.com/show/355038/golang.svg"></code> 
+<code><img height="30" src="https://www.svgrepo.com/show/349540/typescript.svg"></code>
 
 <!--<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <!--<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
