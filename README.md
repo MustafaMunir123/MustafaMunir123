@@ -1,12 +1,10 @@
-<img src="icons/LinkedIn cover.jpg" >
-<h1>👋 Hi there, I’m Mustafa Munir</h1>
+<img src="icons/header.gif" >
+<h3>𝙷𝚎𝚕𝚕𝚘  𝚃𝚑𝚎𝚛𝚎 👋</h3>
 
-
-
-- A Computer Science Graduate of NED University.
-- Working as a Backend & Generative AI Engineer.
-- 👀 I’m interested in Problem Solving.
-- 🌱 Work on frameworks Django, Flask, LangChain.
+- 𝙰 𝙱𝚊𝚌𝚔𝚎𝚗𝚍 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚠𝚒𝚝𝚑 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎 𝚘𝚏 𝙶𝚎𝚗𝚎𝚛𝚊𝚝𝚒𝚟𝚎 𝙰𝙸.
+- 𝙸 𝚞𝚜𝚎 `.py` `.go` `.ts` `.sh` `.html` `.css` `.ai`
+- 𝙸 𝚜𝚘𝚖𝚎 𝚝𝚒𝚖𝚎𝚜 𝚍𝚘 𝙾𝚙𝚎𝚗 𝚂𝚘𝚞𝚛𝚌𝚎 🔀
+- 𝚄𝚜𝚎 𝚝𝚑𝚎𝚜𝚎 𝚝𝚘𝚘𝚕𝚜 𝚍𝚊𝚒𝚕𝚢:
 
 <h2>Career</h2>
 <p>As a Backend Engineer at Techwards, I work on developing and maintaining Gen-AI driven web applications using Python. I enjoy working with new technologies and tools and creating simple, elegant solutions for challenging problems...</p>
@@ -20,11 +18,11 @@
 </details>
 
 
-<h2>How to reach me</h2>
-<a href="mailto:mustafamunir10@gmail.com"><img src="icons/gmail.png" width="50" height="50"></a>
-<a href="https://www.linkedin.com/in/mm2036/"><img src="icons/linkedin_icon-icons.com_59873.png" width="50" height="50"></a>
-<a href="https://www.facebook.com/mm3677"><img src="icons/f.png" width="50" height="50"></a>
-<a href="https://www.instagram.com/the_mm_arts/"><img src="icons/ig.png" width="50" height="50"></a>
+<h3>💬 𝙿𝚒𝚗𝚐 𝙼𝚎</h3>
+<a href="mailto:mustafamunir10@gmail.com"><img src="icons/gmail.png" width="30" height="30"></a>
+<a href="https://www.linkedin.com/in/mm2036/"><img src="icons/linkedin_icon-icons.com_59873.png" width="30" height="30"></a>
+<a href="https://www.facebook.com/mm3677"><img src="icons/f.png" width="30" height="30"></a>
+<a href="https://www.instagram.com/the_mm_arts/"><img src="icons/ig.png" width="30" height="30"></a>
 
 <br>
 </br>
